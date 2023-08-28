@@ -1,4 +1,4 @@
-name: CI-CD-Pipeline-to-AWS-ElasticBeastalk
+name: CI-CD-Pipeline-to-AWS-ElasticBeastalk1
 env:
   EB_PACKAGE_S3_BUCKET_NAME : "gits3bucket"
   EB_APPLICATION_NAME       : "MyFlask"
